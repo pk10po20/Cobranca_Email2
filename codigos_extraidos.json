@@ -1,5 +1,5 @@
 {
-    "data_extracao": "2025-02-19 15:36:58",
+    "data_extracao": "2025-02-19 17:12:13",
     "codigos": [
         {
             "codigo_cliente_fornecedor": 10405905884,
@@ -40,6 +40,10 @@
         {
             "codigo_cliente_fornecedor": 10402741651,
             "codigo_lancamento_omie": 10554401490
+        },
+        {
+            "codigo_cliente_fornecedor": 1033628748,
+            "codigo_lancamento_omie": 10554425886
         },
         {
             "codigo_cliente_fornecedor": 1033637891,
@@ -326,10 +330,6 @@
             "codigo_lancamento_omie": 10578151315
         },
         {
-            "codigo_cliente_fornecedor": 10578186817,
-            "codigo_lancamento_omie": 10578210239
-        },
-        {
             "codigo_cliente_fornecedor": 10430959437,
             "codigo_lancamento_omie": 10578320696
         },
@@ -366,10 +366,6 @@
             "codigo_lancamento_omie": 10579465924
         },
         {
-            "codigo_cliente_fornecedor": 1036431518,
-            "codigo_lancamento_omie": 10579475634
-        },
-        {
             "codigo_cliente_fornecedor": 1168006852,
             "codigo_lancamento_omie": 10579569411
         },
@@ -392,6 +388,30 @@
         {
             "codigo_cliente_fornecedor": 10448416285,
             "codigo_lancamento_omie": 10580164245
+        },
+        {
+            "codigo_cliente_fornecedor": 10436707159,
+            "codigo_lancamento_omie": 10580223672
+        },
+        {
+            "codigo_cliente_fornecedor": 1033629981,
+            "codigo_lancamento_omie": 10580519430
+        },
+        {
+            "codigo_cliente_fornecedor": 1036431518,
+            "codigo_lancamento_omie": 10580535849
+        },
+        {
+            "codigo_cliente_fornecedor": 10568974591,
+            "codigo_lancamento_omie": 10580661626
+        },
+        {
+            "codigo_cliente_fornecedor": 1033624708,
+            "codigo_lancamento_omie": 10580769291
+        },
+        {
+            "codigo_cliente_fornecedor": 10424395608,
+            "codigo_lancamento_omie": 10580822810
         }
     ]
 }

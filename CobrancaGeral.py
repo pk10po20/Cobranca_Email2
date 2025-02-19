@@ -51,14 +51,14 @@ def obter_cliente(codigo_cliente):
     response = requests.post(url, json=payload)
     return response.json()
 
-def obter_boleto(codigo_lancamento):
+def obter_boleto(codigo_lancamento_omie):
     url = f"{OMIE_API_URL}financas/contareceberboleto/"
     payload = {
         "call": "ObterBoleto",
         "app_key": OMIE_APP_KEY,
         "app_secret": OMIE_APP_SECRET,
         "param": [{
-            "nCodTitulo": codigo_lancamento
+            "nCodTitulo": codigo_lancamento_omie
         }]
     }
     
@@ -95,6 +95,7 @@ def processar_contas_receber():
         boleto = obter_boleto(codigo_lancamento)
         
         print(f"Cliente: {cliente.get('razao_social')}")
+        print(f"CNPJ/CPF: {cliente.get('cnpj_cpf')}")
         print(f"Email: {email_cliente}")
         print(f"Valor: R$ {conta.get('valor')}")
         print(f"Boleto: {boleto.get('url_boleto', 'Não disponível')}")
