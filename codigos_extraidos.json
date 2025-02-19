@@ -1,0 +1,397 @@
+{
+    "data_extracao": "2025-02-19 15:36:58",
+    "codigos": [
+        {
+            "codigo_cliente_fornecedor": 10405905884,
+            "codigo_lancamento_omie": 10446028010
+        },
+        {
+            "codigo_cliente_fornecedor": 10478830935,
+            "codigo_lancamento_omie": 10485124888
+        },
+        {
+            "codigo_cliente_fornecedor": 10479534165,
+            "codigo_lancamento_omie": 10488776403
+        },
+        {
+            "codigo_cliente_fornecedor": 10482551882,
+            "codigo_lancamento_omie": 10494794947
+        },
+        {
+            "codigo_cliente_fornecedor": 10502513968,
+            "codigo_lancamento_omie": 10528505958
+        },
+        {
+            "codigo_cliente_fornecedor": 10402741651,
+            "codigo_lancamento_omie": 10543511868
+        },
+        {
+            "codigo_cliente_fornecedor": 10502513968,
+            "codigo_lancamento_omie": 10545160254
+        },
+        {
+            "codigo_cliente_fornecedor": 7631568415,
+            "codigo_lancamento_omie": 10553002389
+        },
+        {
+            "codigo_cliente_fornecedor": 7569971264,
+            "codigo_lancamento_omie": 10554257655
+        },
+        {
+            "codigo_cliente_fornecedor": 10402741651,
+            "codigo_lancamento_omie": 10554401490
+        },
+        {
+            "codigo_cliente_fornecedor": 1033637891,
+            "codigo_lancamento_omie": 10554430991
+        },
+        {
+            "codigo_cliente_fornecedor": 10491206735,
+            "codigo_lancamento_omie": 10554448556
+        },
+        {
+            "codigo_cliente_fornecedor": 1036280299,
+            "codigo_lancamento_omie": 10555413390
+        },
+        {
+            "codigo_cliente_fornecedor": 1036214380,
+            "codigo_lancamento_omie": 10555418110
+        },
+        {
+            "codigo_cliente_fornecedor": 1036181067,
+            "codigo_lancamento_omie": 10555476785
+        },
+        {
+            "codigo_cliente_fornecedor": 1551957952,
+            "codigo_lancamento_omie": 10555623776
+        },
+        {
+            "codigo_cliente_fornecedor": 7595332246,
+            "codigo_lancamento_omie": 10555638236
+        },
+        {
+            "codigo_cliente_fornecedor": 7584022357,
+            "codigo_lancamento_omie": 10555928238
+        },
+        {
+            "codigo_cliente_fornecedor": 10414093742,
+            "codigo_lancamento_omie": 10555937967
+        },
+        {
+            "codigo_cliente_fornecedor": 10427584786,
+            "codigo_lancamento_omie": 10555941045
+        },
+        {
+            "codigo_cliente_fornecedor": 10432156315,
+            "codigo_lancamento_omie": 10555944593
+        },
+        {
+            "codigo_cliente_fornecedor": 10445478579,
+            "codigo_lancamento_omie": 10555948423
+        },
+        {
+            "codigo_cliente_fornecedor": 10428667803,
+            "codigo_lancamento_omie": 10556000257
+        },
+        {
+            "codigo_cliente_fornecedor": 10534960356,
+            "codigo_lancamento_omie": 10556018146
+        },
+        {
+            "codigo_cliente_fornecedor": 10458587323,
+            "codigo_lancamento_omie": 10556136963
+        },
+        {
+            "codigo_cliente_fornecedor": 7584022357,
+            "codigo_lancamento_omie": 10558216208
+        },
+        {
+            "codigo_cliente_fornecedor": 7584022357,
+            "codigo_lancamento_omie": 10558247129
+        },
+        {
+            "codigo_cliente_fornecedor": 7584022357,
+            "codigo_lancamento_omie": 10562341107
+        },
+        {
+            "codigo_cliente_fornecedor": 10406268342,
+            "codigo_lancamento_omie": 10562539931
+        },
+        {
+            "codigo_cliente_fornecedor": 10483338644,
+            "codigo_lancamento_omie": 10562563853
+        },
+        {
+            "codigo_cliente_fornecedor": 7637953325,
+            "codigo_lancamento_omie": 10562678364
+        },
+        {
+            "codigo_cliente_fornecedor": 1033624207,
+            "codigo_lancamento_omie": 10562709744
+        },
+        {
+            "codigo_cliente_fornecedor": 10414014730,
+            "codigo_lancamento_omie": 10565197467
+        },
+        {
+            "codigo_cliente_fornecedor": 10548772426,
+            "codigo_lancamento_omie": 10566164444
+        },
+        {
+            "codigo_cliente_fornecedor": 1033626238,
+            "codigo_lancamento_omie": 10566256358
+        },
+        {
+            "codigo_cliente_fornecedor": 1033632818,
+            "codigo_lancamento_omie": 10566278433
+        },
+        {
+            "codigo_cliente_fornecedor": 10496576183,
+            "codigo_lancamento_omie": 10566313143
+        },
+        {
+            "codigo_cliente_fornecedor": 7592361088,
+            "codigo_lancamento_omie": 10566384024
+        },
+        {
+            "codigo_cliente_fornecedor": 10565789248,
+            "codigo_lancamento_omie": 10566452024
+        },
+        {
+            "codigo_cliente_fornecedor": 1722753123,
+            "codigo_lancamento_omie": 10566619003
+        },
+        {
+            "codigo_cliente_fornecedor": 1238621428,
+            "codigo_lancamento_omie": 10566763696
+        },
+        {
+            "codigo_cliente_fornecedor": 10565088986,
+            "codigo_lancamento_omie": 10567336791
+        },
+        {
+            "codigo_cliente_fornecedor": 10565093108,
+            "codigo_lancamento_omie": 10567336883
+        },
+        {
+            "codigo_cliente_fornecedor": 10482498487,
+            "codigo_lancamento_omie": 10567341065
+        },
+        {
+            "codigo_cliente_fornecedor": 10566998559,
+            "codigo_lancamento_omie": 10567360832
+        },
+        {
+            "codigo_cliente_fornecedor": 10566998559,
+            "codigo_lancamento_omie": 10567361894
+        },
+        {
+            "codigo_cliente_fornecedor": 10566998559,
+            "codigo_lancamento_omie": 10567364142
+        },
+        {
+            "codigo_cliente_fornecedor": 7592361088,
+            "codigo_lancamento_omie": 10567584102
+        },
+        {
+            "codigo_cliente_fornecedor": 10565754010,
+            "codigo_lancamento_omie": 10568094687
+        },
+        {
+            "codigo_cliente_fornecedor": 10538182156,
+            "codigo_lancamento_omie": 10568187465
+        },
+        {
+            "codigo_cliente_fornecedor": 10567547335,
+            "codigo_lancamento_omie": 10568232875
+        },
+        {
+            "codigo_cliente_fornecedor": 10554041290,
+            "codigo_lancamento_omie": 10568349638
+        },
+        {
+            "codigo_cliente_fornecedor": 10568368580,
+            "codigo_lancamento_omie": 10568735167
+        },
+        {
+            "codigo_cliente_fornecedor": 1033636008,
+            "codigo_lancamento_omie": 10568738400
+        },
+        {
+            "codigo_cliente_fornecedor": 10543667183,
+            "codigo_lancamento_omie": 10568982490
+        },
+        {
+            "codigo_cliente_fornecedor": 10568969145,
+            "codigo_lancamento_omie": 10569011839
+        },
+        {
+            "codigo_cliente_fornecedor": 1033634241,
+            "codigo_lancamento_omie": 10569087000
+        },
+        {
+            "codigo_cliente_fornecedor": 7638079022,
+            "codigo_lancamento_omie": 10569180030
+        },
+        {
+            "codigo_cliente_fornecedor": 10569118466,
+            "codigo_lancamento_omie": 10577062400
+        },
+        {
+            "codigo_cliente_fornecedor": 10569016077,
+            "codigo_lancamento_omie": 10577093185
+        },
+        {
+            "codigo_cliente_fornecedor": 10570121543,
+            "codigo_lancamento_omie": 10577113885
+        },
+        {
+            "codigo_cliente_fornecedor": 10577134243,
+            "codigo_lancamento_omie": 10577134310
+        },
+        {
+            "codigo_cliente_fornecedor": 7577519311,
+            "codigo_lancamento_omie": 10577137595
+        },
+        {
+            "codigo_cliente_fornecedor": 10569051187,
+            "codigo_lancamento_omie": 10577137914
+        },
+        {
+            "codigo_cliente_fornecedor": 10445511053,
+            "codigo_lancamento_omie": 10577173668
+        },
+        {
+            "codigo_cliente_fornecedor": 10577112672,
+            "codigo_lancamento_omie": 10577174997
+        },
+        {
+            "codigo_cliente_fornecedor": 10410974354,
+            "codigo_lancamento_omie": 10577267562
+        },
+        {
+            "codigo_cliente_fornecedor": 7601473953,
+            "codigo_lancamento_omie": 10577324569
+        },
+        {
+            "codigo_cliente_fornecedor": 10577316423,
+            "codigo_lancamento_omie": 10577399204
+        },
+        {
+            "codigo_cliente_fornecedor": 10577600574,
+            "codigo_lancamento_omie": 10577600716
+        },
+        {
+            "codigo_cliente_fornecedor": 10440533072,
+            "codigo_lancamento_omie": 10577611736
+        },
+        {
+            "codigo_cliente_fornecedor": 10577634304,
+            "codigo_lancamento_omie": 10577634339
+        },
+        {
+            "codigo_cliente_fornecedor": 10569095443,
+            "codigo_lancamento_omie": 10577922403
+        },
+        {
+            "codigo_cliente_fornecedor": 10578016695,
+            "codigo_lancamento_omie": 10578016716
+        },
+        {
+            "codigo_cliente_fornecedor": 10569036425,
+            "codigo_lancamento_omie": 10578023587
+        },
+        {
+            "codigo_cliente_fornecedor": 10569067276,
+            "codigo_lancamento_omie": 10578042137
+        },
+        {
+            "codigo_cliente_fornecedor": 10569091784,
+            "codigo_lancamento_omie": 10578042276
+        },
+        {
+            "codigo_cliente_fornecedor": 10577072863,
+            "codigo_lancamento_omie": 10578044457
+        },
+        {
+            "codigo_cliente_fornecedor": 10424556653,
+            "codigo_lancamento_omie": 10578106438
+        },
+        {
+            "codigo_cliente_fornecedor": 10578141828,
+            "codigo_lancamento_omie": 10578141922
+        },
+        {
+            "codigo_cliente_fornecedor": 10578151285,
+            "codigo_lancamento_omie": 10578151315
+        },
+        {
+            "codigo_cliente_fornecedor": 10578186817,
+            "codigo_lancamento_omie": 10578210239
+        },
+        {
+            "codigo_cliente_fornecedor": 10430959437,
+            "codigo_lancamento_omie": 10578320696
+        },
+        {
+            "codigo_cliente_fornecedor": 1033629493,
+            "codigo_lancamento_omie": 10578439394
+        },
+        {
+            "codigo_cliente_fornecedor": 7584030757,
+            "codigo_lancamento_omie": 10578526736
+        },
+        {
+            "codigo_cliente_fornecedor": 10578596815,
+            "codigo_lancamento_omie": 10578596848
+        },
+        {
+            "codigo_cliente_fornecedor": 10556984829,
+            "codigo_lancamento_omie": 10579152472
+        },
+        {
+            "codigo_cliente_fornecedor": 10579356787,
+            "codigo_lancamento_omie": 10579356936
+        },
+        {
+            "codigo_cliente_fornecedor": 7584132726,
+            "codigo_lancamento_omie": 10579429794
+        },
+        {
+            "codigo_cliente_fornecedor": 10569203840,
+            "codigo_lancamento_omie": 10579450961
+        },
+        {
+            "codigo_cliente_fornecedor": 6790993816,
+            "codigo_lancamento_omie": 10579465924
+        },
+        {
+            "codigo_cliente_fornecedor": 1036431518,
+            "codigo_lancamento_omie": 10579475634
+        },
+        {
+            "codigo_cliente_fornecedor": 1168006852,
+            "codigo_lancamento_omie": 10579569411
+        },
+        {
+            "codigo_cliente_fornecedor": 10577928537,
+            "codigo_lancamento_omie": 10579721519
+        },
+        {
+            "codigo_cliente_fornecedor": 10579057282,
+            "codigo_lancamento_omie": 10579911360
+        },
+        {
+            "codigo_cliente_fornecedor": 10406349666,
+            "codigo_lancamento_omie": 10580022162
+        },
+        {
+            "codigo_cliente_fornecedor": 10580053675,
+            "codigo_lancamento_omie": 10580053752
+        },
+        {
+            "codigo_cliente_fornecedor": 10448416285,
+            "codigo_lancamento_omie": 10580164245
+        }
+    ]
+}
